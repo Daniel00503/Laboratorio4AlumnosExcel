@@ -1,0 +1,12 @@
+
+# Carpeta de compilación de Maven (se genera sola)
+target/
+
+# Configuración local de NetBeans de cada computadora
+nb-configuration.xml
+
+# Archivos basura de macOS
+.DS_Store
+
+# Archivos temporales de Excel cuando está abierto
+~$*.xlsx
